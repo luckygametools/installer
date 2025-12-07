@@ -1,0 +1,17 @@
+Installer=Lucky Game Tools-installationsprogram
+Installer Path=Installationssti
+Choose Installer Path=Vælg installationsmappe
+Installer Path=Installationsmappe
+Error=Fejl
+Directory=Mappe
+Install=Installer
+Installation complete=Installation fuldført
+Please start from the desktop=Start venligst fra skrivebordet
+Complete=Fuldført
+Create Directory=Opret mappe
+Copy=Kopiér
+File=Fil
+Unzip=Udpak
+Create Shortcut Fail=Kunne ikke oprette skrivebordsgenvej
+Please Exit the LuckyGameTools Client and Steam Before Installation=Luk venligst LuckyGameTools-klienten og Steam før installation
+You can try running with administrator privileges by right clicking=Du kan prøve at køre med administratorrettigheder ved at højreklikke

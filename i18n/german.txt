@@ -1,0 +1,17 @@
+Installer=Lucky Game Tools Installationsprogramm
+Installer Path=Installationspfad
+Choose Installer Path=Installationsverzeichnis auswählen
+Installer Path=Installationsverzeichnis
+Error=Fehler
+Directory=Verzeichnis
+Install=Installieren
+Installation complete=Installation abgeschlossen
+Please start from the desktop=Bitte vom Desktop aus starten
+Complete=Abgeschlossen
+Create Directory=Verzeichnis erstellen
+Copy=Kopieren
+File=Datei
+Unzip=Entpacken
+Create Shortcut Fail=Erstellen der Desktop-Verknüpfung fehlgeschlagen
+Please Exit the LuckyGameTools Client and Steam Before Installation=Bitte beenden Sie den LuckyGameTools Client und Steam vor der Installation
+You can try running with administrator privileges by right clicking=Sie können versuchen, mit Administratorrechten zu starten, indem Sie mit der rechten Maustaste klicken

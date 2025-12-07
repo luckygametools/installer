@@ -1,0 +1,17 @@
+Installer=Installator Lucky Game Tools
+Installer Path=Via installationis
+Choose Installer Path=Elige directorium installationis
+Installer Path=Directorium installationis
+Error=Error
+Directory=Directorium
+Install=Installa
+Installation complete=Installatio completa
+Please start from the desktop=Quaeso a mensa incipe
+Complete=Completum
+Create Directory=Crea directorium
+Copy=Copia
+File=Fasciculus
+Unzip=Extrahe
+Create Shortcut Fail=Creatio compendii mensae defecit
+Please Exit the LuckyGameTools Client and Steam Before Installation=Quaeso exi ex cliente LuckyGameTools et Steam ante installationem
+You can try running with administrator privileges by right clicking=Potes temptare exsequi cum privilegiis administratoris dextero clicco

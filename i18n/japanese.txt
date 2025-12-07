@@ -1,0 +1,17 @@
+Installer=Lucky Game Toolsインストーラ
+Installer Path=インストールパス
+Choose Installer Path=インストールディレクトリの選択
+Installer Path=インストールディレクトリ
+Error=エラー
+Directory=ディレクトリ
+Install=インストール
+Installation complete=インストール完了
+Please start from the desktop=デスクトップから起動してください
+Complete=完了
+Create Directory=ディレクトリの作成
+Copy=コピー
+File=ファイル
+Unzip=解凍
+Create Shortcut Fail=ショートカットデスクトップアイコンの作成に失敗しました
+Please Exit the LuckyGameTools Client and Steam Before Installation=インストールする前に、LuckyGameToolsクライアントとSteamを終了してください
+You can try running with administrator privileges by right clicking=右クリックを試みることができます->管理者権限の実行

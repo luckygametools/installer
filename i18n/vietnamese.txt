@@ -1,0 +1,17 @@
+Installer=Trình cài đặt Lucky Game Tools
+Installer Path=Đường dẫn cài đặt
+Choose Installer Path=Chọn thư mục cài đặt
+Installer Path=Thư mục cài đặt
+Error=Lỗi
+Directory=Thư mục
+Install=Cài đặt
+Installation complete=Cài đặt hoàn tất
+Please start from the desktop=Vui lòng khởi động từ màn hình desktop
+Complete=Hoàn tất
+Create Directory=Tạo thư mục
+Copy=Sao chép
+File=Tệp
+Unzip=Giải nén
+Create Shortcut Fail=Tạo biểu tượng shortcut trên desktop thất bại
+Please Exit the LuckyGameTools Client and Steam Before Installation=Vui lòng thoát khỏi LuckyGameTools Client và Steam trước khi cài đặt
+You can try running with administrator privileges by right clicking=Bạn có thể thử chạy với quyền quản trị bằng cách nhấp chuột phải

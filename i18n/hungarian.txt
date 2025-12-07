@@ -1,0 +1,17 @@
+Installer=Lucky Game Tools telepítő
+Installer Path=Telepítési útvonal
+Choose Installer Path=Válasszon telepítési könyvtárat
+Installer Path=Telepítési könyvtár
+Error=Hiba
+Directory=Könyvtár
+Install=Telepítés
+Installation complete=Telepítés befejezve
+Please start from the desktop=Kérjük, indítsa el az asztalról
+Complete=Befejezve
+Create Directory=Könyvtár létrehozása
+Copy=Másolás
+File=Fájl
+Unzip=Kicsomagolás
+Create Shortcut Fail=Az asztali parancsikon létrehozása sikertelen
+Please Exit the LuckyGameTools Client and Steam Before Installation=Kérjük, lépjen ki a LuckyGameTools kliensből és a Steamből a telepítés előtt
+You can try running with administrator privileges by right clicking=Próbálja meg rendszergazdai jogosultságokkal futtatni jobb egérgombbal kattintva

@@ -1,0 +1,17 @@
+Installer=Lucky Game Tools installatieprogramma
+Installer Path=Installatiepad
+Choose Installer Path=Kies installatiemap
+Installer Path=Installatiemap
+Error=Fout
+Directory=Map
+Install=Installeren
+Installation complete=Installatie voltooid
+Please start from the desktop=Start a.u.b. vanaf het bureaublad
+Complete=Voltooid
+Create Directory=Map aanmaken
+Copy=Kopiëren
+File=Bestand
+Unzip=Uitpakken
+Create Shortcut Fail=Aanmaken van bureaublad-snelkoppeling mislukt
+Please Exit the LuckyGameTools Client and Steam Before Installation=Sluit de LuckyGameTools Client en Steam af voordat u installeert
+You can try running with administrator privileges by right clicking=U kunt proberen het programma uit te voeren met beheerdersrechten door rechts te klikken

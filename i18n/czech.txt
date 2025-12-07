@@ -1,0 +1,17 @@
+Installer=Instalátor Lucky Game Tools
+Installer Path=Instalační cesta
+Choose Installer Path=Vyberte instalační adresář
+Installer Path=Instalační adresář
+Error=Chyba
+Directory=Adresář
+Install=Instalovat
+Installation complete=Instalace dokončena
+Please start from the desktop=Prosím spusťte z plochy
+Complete=Dokončeno
+Create Directory=Vytvořit adresář
+Copy=Kopírovat
+File=Soubor
+Unzip=Rozbalit
+Create Shortcut Fail=Vytvoření zástupce na ploše selhalo
+Please Exit the LuckyGameTools Client and Steam Before Installation=Před instalací prosím ukončete klienta LuckyGameTools a Steam
+You can try running with administrator privileges by right clicking=Můžete zkusit spustit s oprávněním správce kliknutím pravým tlačítkem

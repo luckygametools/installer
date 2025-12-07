@@ -1,0 +1,17 @@
+Installer=Lucky Game Tools -asennusohjelma
+Installer Path=Asennuspolku
+Choose Installer Path=Valitse asennushakemisto
+Installer Path=Asennushakemisto
+Error=Virhe
+Directory=Hakemisto
+Install=Asenna
+Installation complete=Asennus valmis
+Please start from the desktop=Käynnistä työpöydältä
+Complete=Valmis
+Create Directory=Luo hakemisto
+Copy=Kopioi
+File=Tiedosto
+Unzip=Pura
+Create Shortcut Fail=Työpöydän pikakuvakkeen luominen epäonnistui
+Please Exit the LuckyGameTools Client and Steam Before Installation=Sulje LuckyGameTools-asiakas ja Steam ennen asennusta
+You can try running with administrator privileges by right clicking=Voit yrittää suorittaa järjestelmänvalvojan oikeuksilla napsauttamalla hiiren oikealla painikkeella

@@ -1,0 +1,17 @@
+Installer=Πρόγραμμα εγκατάστασης Lucky Game Tools
+Installer Path=Διαδρομή εγκατάστασης
+Choose Installer Path=Επιλέξτε κατάλογο εγκατάστασης
+Installer Path=Κατάλογος εγκατάστασης
+Error=Σφάλμα
+Directory=Κατάλογος
+Install=Εγκατάσταση
+Installation complete=Η εγκατάσταση ολοκληρώθηκε
+Please start from the desktop=Παρακαλώ εκκινήστε από την επιφάνεια εργασίας
+Complete=Ολοκληρώθηκε
+Create Directory=Δημιουργία καταλόγου
+Copy=Αντιγραφή
+File=Αρχείο
+Unzip=Αποσυμπίεση
+Create Shortcut Fail=Αποτυχία δημιουργίας συντόμευσης στην επιφάνεια εργασίας
+Please Exit the LuckyGameTools Client and Steam Before Installation=Παρακαλώ κλείστε τον πελάτη LuckyGameTools και το Steam πριν την εγκατάσταση
+You can try running with administrator privileges by right clicking=Μπορείτε να δοκιμάσετε να εκτελέσετε με δικαιώματα διαχειριστή κάνοντας δεξί κλικ

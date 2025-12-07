@@ -1,0 +1,17 @@
+Installer=Penginstal Lucky Game Tools
+Installer Path=Jalur Instalasi
+Choose Installer Path=Pilih Direktori Instalasi
+Installer Path=Direktori Instalasi
+Error=Kesalahan
+Directory=Direktori
+Install=Instal
+Installation complete=Instalasi selesai
+Please start from the desktop=Silakan mulai dari desktop
+Complete=Selesai
+Create Directory=Buat Direktori
+Copy=Salin
+File=Berkas
+Unzip=Ekstrak
+Create Shortcut Fail=Gagal membuat pintasan desktop
+Please Exit the LuckyGameTools Client and Steam Before Installation=Harap keluar dari klien LuckyGameTools dan Steam sebelum instalasi
+You can try running with administrator privileges by right clicking=Anda dapat mencoba menjalankan dengan hak administrator dengan klik kanan

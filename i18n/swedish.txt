@@ -1,0 +1,17 @@
+Installer=Lucky Game Tools installerare
+Installer Path=Installationssökväg
+Choose Installer Path=Välj installationskatalog
+Installer Path=Installationskatalog
+Error=Fel
+Directory=Katalog
+Install=Installera
+Installation complete=Installationen slutförd
+Please start from the desktop=Vänligen starta från skrivbordet
+Complete=Slutförd
+Create Directory=Skapa katalog
+Copy=Kopiera
+File=Fil
+Unzip=Packa upp
+Create Shortcut Fail=Det gick inte att skapa skrivbordsgenväg
+Please Exit the LuckyGameTools Client and Steam Before Installation=Vänligen avsluta LuckyGameTools-klienten och Steam före installation
+You can try running with administrator privileges by right clicking=Du kan försöka köra med administratörsrättigheter genom att högerklicka

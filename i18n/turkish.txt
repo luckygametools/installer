@@ -1,0 +1,17 @@
+Installer=Lucky Game Tools yükleyici
+Installer Path=Yükleme yolu
+Choose Installer Path=Yükleme dizinini seçin
+Installer Path=Yükleme dizini
+Error=Hata
+Directory=Dizin
+Install=Yükle
+Installation complete=Yükleme tamamlandı
+Please start from the desktop=Lütfen masaüstünden başlatın
+Complete=Tamamlandı
+Create Directory=Dizin oluştur
+Copy=Kopyala
+File=Dosya
+Unzip=Çıkart
+Create Shortcut Fail=Masaüstü kısayolu oluşturma başarısız
+Please Exit the LuckyGameTools Client and Steam Before Installation=Yüklemeden önce lütfen LuckyGameTools İstemcisini ve Steam'i kapatın
+You can try running with administrator privileges by right clicking=Sağ tıklayarak yönetici ayrıcalıklarıyla çalıştırmayı deneyebilirsiniz

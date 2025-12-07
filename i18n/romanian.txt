@@ -1,0 +1,17 @@
+Installer=Program de instalare Lucky Game Tools
+Installer Path=Cale de instalare
+Choose Installer Path=Alegeți directorul de instalare
+Installer Path=Director de instalare
+Error=Eroare
+Directory=Director
+Install=Instalare
+Installation complete=Instalare completă
+Please start from the desktop=Vă rugăm să porniți de pe desktop
+Complete=Finalizat
+Create Directory=Creare director
+Copy=Copiere
+File=Fișier
+Unzip=Dezarhivare
+Create Shortcut Fail=Crearea scurtăturii pe desktop a eșuat
+Please Exit the LuckyGameTools Client and Steam Before Installation=Vă rugăm să închideți clientul LuckyGameTools și Steam înainte de instalare
+You can try running with administrator privileges by right clicking=Puteți încerca să rulați cu privilegii de administrator făcând clic dreapta

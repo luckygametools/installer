@@ -1,0 +1,17 @@
+Installer=Інсталятор Lucky Game Tools
+Installer Path=Шлях встановлення
+Choose Installer Path=Виберіть директорію встановлення
+Installer Path=Директорія встановлення
+Error=Помилка
+Directory=Директорія
+Install=Встановити
+Installation complete=Встановлення завершено
+Please start from the desktop=Будь ласка, запустіть з робочого столу
+Complete=Завершено
+Create Directory=Створити директорію
+Copy=Копіювати
+File=Файл
+Unzip=Розпакувати
+Create Shortcut Fail=Не вдалося створити ярлик на робочому столі
+Please Exit the LuckyGameTools Client and Steam Before Installation=Будь ласка, закрийте клієнт LuckyGameTools та Steam перед встановленням
+You can try running with administrator privileges by right clicking=Ви можете спробувати запустити з правами адміністратора, клацнувши правою кнопкою миші

@@ -1,0 +1,17 @@
+Installer=โปรแกรมติดตั้ง Lucky Game Tools
+Installer Path=เส้นทางการติดตั้ง
+Choose Installer Path=เลือกไดเรกทอรีติดตั้ง
+Installer Path=ไดเรกทอรีติดตั้ง
+Error=ข้อผิดพลาด
+Directory=ไดเรกทอรี
+Install=ติดตั้ง
+Installation complete=การติดตั้งเสร็จสมบูรณ์
+Please start from the desktop=โปรดเริ่มต้นจากเดสก์ท็อป
+Complete=เสร็จสมบูรณ์
+Create Directory=สร้างไดเรกทอรี
+Copy=คัดลอก
+File=ไฟล์
+Unzip=แตกไฟล์
+Create Shortcut Fail=การสร้างไอคอนทางลัดบนเดสก์ท็อปล้มเหลว
+Please Exit the LuckyGameTools Client and Steam Before Installation=โปรดออกจากไคลเอนต์ LuckyGameTools และ Steam ก่อนการติดตั้ง
+You can try running with administrator privileges by right clicking=คุณสามารถลองเรียกใช้ด้วยสิทธิ์ผู้ดูแลระบบโดยคลิกขวา

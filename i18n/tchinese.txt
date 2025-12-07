@@ -1,0 +1,17 @@
+Installer=Lucky Game Tools安裝程式
+Installer Path=安裝路徑
+Choose Installer Path=選擇安裝目錄
+Installer Path=安裝目錄
+Error=錯誤
+Directory=目錄
+Install=安裝
+Installation complete=安裝完成
+Please start from the desktop=請從案頭啟動
+Complete=完成
+Create Directory=創建目錄
+Copy=複製
+File=檔案
+Unzip=解壓
+Create Shortcut Fail=創建快捷桌面圖示失敗
+Please Exit the LuckyGameTools Client and Steam Before Installation=請在安裝前，先退出LuckyGameTools用戶端和steam
+You can try running with administrator privileges by right clicking=可嘗試右鍵->管理員許可權運行
